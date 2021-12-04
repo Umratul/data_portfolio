@@ -3,20 +3,21 @@ const details = [
     {
         id: 1,
         name: 'Travelo',
-        img: 'https://ibb.co/dcZ5NtN',
+        img: 'https://i.ibb.co/j5trCzC/project1.png',
         body: 'lorem5'  
     },
     {
         id: 2,
         name: 'CarRev',
-        img: 'https://ibb.co/qnh9Yj2',
+        img: 'https://i.ibb.co/7zBVtC0/project2.png',
         body: 'lorem5'  
     },
     {
         id: 3,
         name: 'Dental Monte',
-        img: 'https://ibb.co/nsTq6vW',
+        img: 'https://i.ibb.co/svhpbGB/project3.png',
         body: 'lorem5'  
     }
 
 ]
+
